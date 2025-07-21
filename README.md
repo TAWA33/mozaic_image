@@ -58,7 +58,7 @@ pip install opencv-python numpy tqdm Pillow
 - 🗂️ Organisez bien vos répertoires d’entrée et sortie (images, mosaïques, vidéos)
 
 
-<p align="center">
-  <img src="assets/recursive_zoom_precis.gif" width="600"/>
-</p>
+## 🎥 Aperçu Visuel
+
+![Aperçu de la mosaïque et animation](assets/recursive_zoom_precis.gif)
 

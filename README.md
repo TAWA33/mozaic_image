@@ -66,5 +66,5 @@ pip install opencv-python numpy tqdm Pillow
 
 ![Aperçu de la mosaïque et animation](assets/test_fin.mp4.gif)
 
-![Aperçu de la mosaïque et animation](assets/transition.mp4)
+![Aperçu de la mosaïque et animation](assets/transition.gif)
 

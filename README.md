@@ -39,12 +39,9 @@ pip install opencv-python numpy tqdm Pillow
 
 1. **Interface Graphique** : python interface.py
 
-2. **Ligne de commande** :
-- Mosaïque simple
-python mosaic.py image_source.jpg miniature.jpg 20 sortie.jpg
+2. **Mosaïque simple** : python mosaic.py image_source.jpg miniature.jpg 20 sortie.jpg
 
-- Animation zoom
-python make_movie.py image_source.jpg sortie.mp4 2 9
+3. **Animation zoom** : python make_movie.py image_source.jpg sortie.mp4 2 9
 
 
 # Bonnes Pratiques

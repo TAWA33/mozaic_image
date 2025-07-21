@@ -16,23 +16,23 @@ Créez des mosaïques et animations visuelles à partir de vos collections de ph
 
 📂 projet/
 
-├── 📄 apparition.py             # Animation d'apparition pixel par pixel
+├── 📄 apparition.py        ->       # Animation d'apparition pixel par pixel
 
-├── 📄 concat_opac.py            # Fondu entre images et effets de transition
+├── 📄 concat_opac.py       ->       # Fondu entre images et effets de transition
 
-├── 📄 interface.py              # Interface utilisateur graphique (Tkinter)
+├── 📄 interface.py         ->       # Interface utilisateur graphique (Tkinter)
 
-├── 📄 mosaic.py                 # Cœur de génération des mosaïques
+├── 📄 mosaic.py            ->       # Cœur de génération des mosaïques
 
-├── 📄 mosaic_rep.py             # Mosaïques à partir de répertoires d'images
+├── 📄 mosaic_rep.py        ->       # Mosaïques à partir de répertoires d'images
 
-├── 📄 zoom_precis.py            # Effets de zoom avancés et ciblés
+├── 📄 zoom_precis.py       ->       # Effets de zoom avancés et ciblés
 
-├── make_video.py       # Génération de vidéos à partir de zooms
+├── 📄 make_video.py        ->       # Génération de vidéos à partir de zooms
 
-├── make_movie.py       # Zoom animé sur une seule image
+├── 📄 make_movie.py        ->       # Zoom animé sur une seule image
 
-└── make_movie_rep.py   # Zoom animé sur mosaïque (via dossier miniatures)
+└── 📄 make_movie_rep.py    ->       # Zoom animé sur mosaïque (via dossier miniatures)
 
 ## 🧪 Prérequis
 

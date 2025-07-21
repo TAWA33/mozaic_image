@@ -60,11 +60,11 @@ pip install opencv-python numpy tqdm Pillow
 
 ## 🎥 Aperçu Visuel
 
-![Aperçu de la mosaïque et animation](assets/ezgif-43393e2f6fcbb1.gif) ![Aperçu](assets/opac.jpg) ![Aperçu de la mosaïque et animation](assets/colle.jpg)
+![Aperçu de la mosaïque et animation](assets/ezgif-43393e2f6fcbb1.gif) ![Aperçu](assets/opac.jpg) ![colle+mosaic](assets/colle.jpg)
 
-![Aperçu de la mosaïque et animation](assets/mosaique_persons.jpg)
+![mosaic](assets/mosaique_persons.jpg)
 
-![Aperçu de la mosaïque et animation](assets/test_fin.gif)
+![zoom](assets/test_fin.gif)
 
-![Aperçu de la mosaïque et animation](assets/ezgif-43aa6346ec47b2.gif)
+![transition](assets/ezgif-43aa6346ec47b2.gif)
 

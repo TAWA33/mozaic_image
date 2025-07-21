@@ -59,6 +59,6 @@ pip install opencv-python numpy tqdm Pillow
 
 
 <p align="center">
-  <img src="assets/demo.gif" width="600"/>
+  <img src="assets/recursive_zoom_precis.gif" width="600"/>
 </p>
 

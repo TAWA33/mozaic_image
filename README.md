@@ -61,7 +61,7 @@ pip install opencv-python numpy tqdm Pillow
 ## 🎥 Aperçu Visuel
 
 ### Apparition + Zoom récursif -------------------------------- Assemblage de deux images avec opacités différentes
-![Aperçu de la mosaïque et animation](assets/ezgif-43393e2f6fcbb1.gif) ![Aperçu](assets/opac.jpg) 
+![Aperçu de la mosaïque et animation](assets/ezgif-43393e2f6fcbb1.gif) -------------------------------- ![Aperçu](assets/opac.jpg) 
 
 ### Accoller deux images mosaïques côte à côte 
 ![colle+mosaic](assets/colle.jpg)

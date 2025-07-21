@@ -40,16 +40,15 @@ pip install opencv-python numpy tqdm Pillow
 1. **Interface Graphique** : python interface.py
 
 2. **Ligne de commande** :
-# Mosaïque simple
+- Mosaïque simple
 python mosaic.py image_source.jpg miniature.jpg 20 sortie.jpg
 
-# Animation zoom
+- Animation zoom
 python make_movie.py image_source.jpg sortie.mp4 2 9
 
 
-Bonnes Pratiques
-Préparer un dossier d'images miniatures homogènes
-
+# Bonnes Pratiques
+1 - Préparer un dossier d'images miniatures homogènes, carrées de préférence
 Pour les vidéos : 60 FPS donne des résultats fluides
 
 Taille recommandée des tuiles : 10-30 pixels

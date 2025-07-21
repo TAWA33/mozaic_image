@@ -57,3 +57,8 @@ pip install opencv-python numpy tqdm Pillow
 - 🎥 Pour des vidéos fluides : 60 FPS recommandés
 - 🗂️ Organisez bien vos répertoires d’entrée et sortie (images, mosaïques, vidéos)
 
+
+<p align="center">
+  <img src="assets/demo.gif" width="600"/>
+</p>
+

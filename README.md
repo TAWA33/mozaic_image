@@ -1,4 +1,5 @@
-# Générateur de Mosaïques d'Images
+# 🧩 Générateur de Mosaïques d'Images
+Projet réalisé en 2023/2024 dans le cadre d’un projet d'informatique de CPBx par Kitchi-Tawa BOURGUINAT
 
 Créez des mosaïques et animations visuelles à partir de vos collections de photos.
 
@@ -27,26 +28,32 @@ Créez des mosaïques et animations visuelles à partir de vos collections de ph
 
 ├── 📄 zoom_precis.py            # Effets de zoom avancés et ciblés
 
-└── 📄 make_video.py             # Fonctions vidéo de base
+├── make_video.py       # Génération de vidéos à partir de zooms
 
-## Prérequis
+├── make_movie.py       # Zoom animé sur une seule image
+
+└── make_movie_rep.py   # Zoom animé sur mosaïque (via dossier miniatures)
+
+## 🧪 Prérequis
 
 - Python 3.8+
-- Bibliothèques requises :
+- 📦 Bibliothèques requises :
 pip install opencv-python numpy tqdm Pillow
 
 ## ⚡ Utilisation Rapide
 
-1. **Interface Graphique** : python interface.py
+1. ▶️ **Lancer l’interface graphique** : python interface.py
 
-2. **Mosaïque simple** : python mosaic.py image_source.jpg miniature.jpg 20 sortie.jpg
+2. 🧱 **Générer une mosaïque simple** : python mosaic.py image_source.jpg miniature.jpg 20 sortie.jpg
 
-3. **Animation zoom** : python make_movie.py image_source.jpg sortie.mp4 2 9
+3. 🎬 **Créer une vidéo de zoom à partir d’une image** : python make_movie.py image_source.jpg sortie.mp4 2 9
+
+4. 🎞️ **Créer une vidéo de zoom depuis une mosaïque complète (dossier miniatures)** : python make_movie_rep.py image.jpg dossier_miniatures/ 2 9 video.mp4
 
 
 # ✅ Bonnes Pratiques
-- Préparer un dossier de miniatures homogènes (carrées de préférence)
-- Pour des vidéos fluides : 60 FPS recommandés
-- Taille idéale des tuiles : 10 à 30 pixels
-- Privilégier une bonne variation de couleurs dans les miniatures pour de meilleurs résultats
+- 📐 Utilisez des miniatures carrées et homogènes (10 à 30 px de côté)
+- 🎨 Privilégiez une bonne diversité de couleurs
+- 🎥 Pour des vidéos fluides : 60 FPS recommandés
+- 🗂️ Organisez bien vos répertoires d’entrée et sortie (images, mosaïques, vidéos)
 

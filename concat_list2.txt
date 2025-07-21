@@ -1,3 +1,0 @@
-file 'test_apparition.mp4'
-file 'test_debut.mp4'
-file 'test_fin.mp4'
